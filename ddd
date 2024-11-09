@@ -1,0 +1,98 @@
+<html>
+<head> 
+<link href="ddd.css" rel="stylesheet"/>
+</head>
+    <body>
+    <header> 
+        <h1>МАГАЗИН</h1> 
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWD2wYX7n7seiG65wM2hkTPdbPTZGFTHPow&s" >
+    </header>
+    <nav>
+        <a href="#">Про нас</a>
+                <a href="#">Каталог</a>
+                <a href="#">Відгуки</a>
+                <a href="#">Де нас знайти</a>
+                </nav>
+                <section class="About">
+                    <h2> Про нас </h2>
+                    <div class="About-content">
+                        <img src="https://seeklogo.com/images/S/samsung-logo-4BA7D9F6D7-seeklogo.com.png"
+                        class="logo">
+                        
+                <p>Samsung — південнокорейська транснаціональна компанія-конгломерат, головний офіс якої розташований у Сеулі, Південна Корея. Вона складається з численних дочірніх і залежних підприємств, більшість з яких об'єднані під брендом Samsung. Компанія є найбільшим південнокорейським чеболем.
+
+Найбільш відомими дочірніми компаніями Samsung є Samsung Electronics (найбільша на планеті компанія з виробництва інформаційних технологій, згідно з доходами 2010 року) Samsung Heavy Industries (другий за величиною суднобудівник у світі, згідно з доходами 2010 року) Samsung Engineering[en] та Samsung C&T[ko] (відповідно, тридцять п'ята, і 72 за величиною будівельні компанії у світі).[6] Іншими потужними підрозділами є Samsung Life Insurance[en] -найбільша страхова компанія у світі, Samsung EverlandSamsung Everland (найстарший парк розваг у Південній Кореї) і Cheil Worldwide[en] (19-го найбільше у світі рекламне агентство, згідно з доходами у 2010 році).
+
+</p>                
+</div>
+</section>
+<section class="Catalog">
+    
+    <h2> Каталог </h2>
+    <div class="products">
+     <div class="product">
+        <img src="https://lh3.googleusercontent.com/N6P13bUGRLUoQ3QMtBtV99EyhOK2FOAX2Q0xsEieO0HdoegmL6X5JNDCHeIZZF61MEFIeaBcj8sPJYpPWpQt-xs5XvMbwWpfjPy7=rw-e365-w400" > 
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+                <div class="product">
+        <img src="https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1714043021/Croma%20Assets/Communication/Mobiles/Images/303894_0_lt5m2y.png?tr=w-600" > 
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+                <div class="product">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlt4DMl0N2DnnfwXEuOe-LuldXjlxjfy_dw&s">
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+             
+                  <div class="product">
+        <img src="https://images.samsung.com/is/image/samsung/p6pim/ua/sm-x516bzaesek/gallery/ua-galaxy-tab-s9-fe-sm-x516-481162-sm-x516bzaesek-542745617?$650_519_PNG$" > 
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+                <div class="product">
+        <img src="https://www.samsungplaza.com.np/public/files/499916F619448C5-A8WiFiPG.png" > 
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+                <div class="product">
+        <img src="https://i5.walmartimages.com/asr/ba042398-2c9a-453a-b171-261b019c5b51.5d194ae864b31bda060486afee628918.jpeg">
+        <h3>Samsung S 24 Ultra 5G 16/513</h3>
+                <p>Ціна</p>
+                <a class="article-but" href="#">Детальніше</a>
+                </div>
+                
+                
+    </div>
+    </section> 
+
+    <section class="reviews">
+        <h2> Відгуки </h2>
+        <div class="review">
+                 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="User">
+                 <p> Телефони бомба </p>
+        </div>
+          <div class="review">
+                 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="User">
+                 <p>Телефони качествині</p>
+        </div>
+    </section>
+    <section class="location">
+        <h2>Де нас знайти?</h2>
+        <img src="https://cdn.meta.ua/meta_news/7b/01001od6-7bc3.jpeg" alt="Location">
+    </section>
+    <footer>
+        <div class="footer">
+                <p>&copy; 2024 Магазин. Всі права захищено.</p>
+        </div>
+    </footer>
+
+            
+    </body>
+</html>
